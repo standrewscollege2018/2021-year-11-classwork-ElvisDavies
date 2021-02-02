@@ -1,0 +1,1 @@
+# This program demonstrates storing information in variables
